@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Gamehub_Central/static/css/main.87528521.css",
+    "main.js": "/Gamehub_Central/static/js/main.a59a5f6f.js",
+    "static/media/Center_of_Screen.png": "/Gamehub_Central/static/media/Center_of_Screen.a645225494734153afea.png",
+    "static/media/couch_2048.png": "/Gamehub_Central/static/media/couch_2048.60707f191e3d3f98179b.png",
+    "static/media/558001298_preview_tictac5.jpg": "/Gamehub_Central/static/media/558001298_preview_tictac5.652b51bdb7afda0e552e.jpg",
+    "static/media/1600w-bAKwPp-9Dio.webp": "/Gamehub_Central/static/media/1600w-bAKwPp-9Dio.7444e6a3e56c35231fd8.webp",
+    "static/media/flappy-bird-hero-1240x1240.png": "/Gamehub_Central/static/media/flappy-bird-hero-1240x1240.58936436b7a8da3d48e8.png",
+    "static/media/Hangman.jpeg": "/Gamehub_Central/static/media/Hangman.661a91893be2a51a4bd6.jpeg",
+    "index.html": "/Gamehub_Central/index.html",
+    "main.87528521.css.map": "/Gamehub_Central/static/css/main.87528521.css.map",
+    "main.a59a5f6f.js.map": "/Gamehub_Central/static/js/main.a59a5f6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87528521.css",
+    "static/js/main.a59a5f6f.js"
+  ]
+}
